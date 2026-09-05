@@ -1,5 +1,5 @@
 ## 🧬 Project Overview
-This utility automates the extraction, filtering, and cross-referencing of genomic data from tab-separated datasets (`HUGO_genes.txt` and `chr21_genes.txt`). The pipeline isolates unique gene symbols, flags occurrences, maps descriptions via hash tables, and mathematically calculates set intersections to isolate overlapping genetic markers.
+This utility automates extracting, filtering, and cross-referencing genomic data from tab-separated datasets (`HUGO_genes.txt` and `chr21_genes.txt`). The pipeline isolates unique gene symbols, flags occurrences, maps descriptions via hash tables, and mathematically calculates set intersections to isolate overlapping genetic markers.
 
 The final parsed results are automatically exported to a structured `/OUTPUT` directory for downstream data analysis.
 
