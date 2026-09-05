@@ -7,7 +7,7 @@ Similar to assignment 3, it generated results in an OUTPUT directory when runnin
 A Python-based utility engineered to parse raw text data, manipulate structured data types, and automate file output generation.
 
 ## 🚀 Overview
-This application processes raw input data from `.txt` source files to generate structured, formatted outputs saved dynamically into a designated `/OUTPUT` directory. The codebase demonstrates core software engineering practices, optimizing data lookups and filtration using structured Python collection types (dictionaries, lists, and sets).
+This application processes raw input data from `.txt` source files to generate structured, formatted outputs saved dynamically into a designated `/OUTPUT` directory. The codebase demonstrates core software engineering practices by optimizing data lookups and filtering with structured Python collection types (dictionaries, lists, and sets).
 
 ## 🛠️ Tech Stack & Skills
 * **Language:** Python 3
